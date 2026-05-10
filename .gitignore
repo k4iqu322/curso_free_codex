@@ -1,0 +1,4 @@
+
+# Artefatos de build/download
+dist/
+prisma/*.db
